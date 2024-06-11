@@ -24,5 +24,7 @@ String []my_string= {"Java","Python","PHP","C#","C Programming","C++"};
 
     Arrays.sort(my_string);
     System.out.println("Sorted Array format"+ Arrays.toString(my_string));
+
+    
 }
 }
