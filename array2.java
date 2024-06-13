@@ -23,5 +23,5 @@ public class array2{
     System.out.println();
     }
     }
-    
+
 }

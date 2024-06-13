@@ -86,8 +86,8 @@ while (dice <= 6) {
   dice = dice + 1;
 }
 
-for(int j =10; j > 0; j ++);
-if (j==5);
+for(int j= 10; j > 0; j ++);
+if (j=5);
 {
 System.out.println(j);}
 

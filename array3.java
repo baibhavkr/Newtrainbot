@@ -19,7 +19,7 @@ public class array3 {
        int[] my_array1 = {
           1789, 2035, 1899, 1456, 2013, 
           1458, 2458, 1254, 1472, 2365, 
-          1456, 2265, 1457, 2456
+          1456, 2265, 1457, 2456, 2780
        };
        
        // Check if the integer array 'my_array1' contains the item 2013 and print the result.
