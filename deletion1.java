@@ -10,7 +10,7 @@ public class deletion1 {
         int[] my_array = {25, 14, 56, 15, 36, 56, 77, 18, 29, 49};
    
         // Print the original array using Arrays.toString() method.
-        System.out.println("Original Array : " + Arrays.toString(my_array));     
+        System.out.println("Original Array  : " + Arrays.toString(my_array));     
    
         // Define the index of the element to be removed (second element, index 1, value 14).
         int removeIndex = 1;
